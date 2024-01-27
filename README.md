@@ -1,2 +1,3 @@
 # basic-lane-find
-Find out the lane
+
+create a simple pipeline to detect road lines in a frame 
